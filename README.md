@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/38b988c1f94cea8d6c68e5251dd5a09d38b4bf5761ebb3d667456b1b5fd9c74d/68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966)
+![logo](https://t3.ftcdn.net/jpg/05/02/52/50/360_F_502525048_QXSrHXUczD9yoyep1wVTpOFH0SeXhsrU.jpg)
 <h1 align="center">Hi 👋, I'm Sumaiya</h1>
 <h3 align="center">A passionate Data Analyst with an array of skills in SQL, MS Excel, Power BI, Python and Tableau.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif"
